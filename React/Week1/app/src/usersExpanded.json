@@ -1,0 +1,23 @@
+[
+  {
+    "fullname": "testy mc testy face",
+    "address": "test alley",
+    "age": 35,
+    "height": 185,
+    "languages": ["danish", "arabic"]
+  },
+  {
+    "fullname": "Ahmad Hansen",
+    "address": "test alley 2",
+    "age": 89,
+    "height": 167,
+    "languages": ["english", "polish"]
+  },
+  {
+    "fullname": "Peter Petersen",
+    "address": "alley 2",
+    "age": 19,
+    "height": 176,
+    "languages": ["english", "danish"]
+  }
+]

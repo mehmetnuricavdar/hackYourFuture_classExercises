@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "order name": "Pizza",
+      "orderId": "1",
+      "price": 9.99,
+      "listOfDrinks": ["coke", "soda", "water", "beer"],
+      "orderExtras": ["cheese", "mushrooms", "bacon"]
+    },
+    {
+      "order name": "hamburger",
+      "orderId": "2",
+      "price": 8.99,
+      "listOfDrinks": ["coke", "wine", "water", "beer"],
+      "orderExtras": ["cheese", "mushrooms", "bacon", "chips"]
+    }
+  ]
+}
